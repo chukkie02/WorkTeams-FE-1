@@ -51,6 +51,17 @@ module.exports = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        custom: {
+          orange_400: "hsl(var(--primary-orange-400))",
+          purple_400: "hsl(var(--primary-purple-400))",
+          purple_100: "hsl(var(--primary-purple-100))",
+          gray_300: "hsl(var(--primary-gray-300))",
+          blue_400: "hsl(var(--primary-blue-400))"
+        }
+      },
+      fontFamily: {
+        nunito: ['"Nunito Sans"'],
+        poppins: ["Poppins"]
       },
       borderRadius: {
         lg: "var(--radius)",
