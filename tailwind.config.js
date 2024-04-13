@@ -56,7 +56,9 @@ module.exports = {
           purple_400: "hsl(var(--primary-purple-400))",
           purple_100: "hsl(var(--primary-purple-100))",
           gray_300: "hsl(var(--primary-gray-300))",
-          blue_400: "hsl(var(--primary-blue-400))"
+          gray_500: "hsl(var(--primary-gray-500))",
+          blue_400: "hsl(var(--primary-blue-400))",
+          blue_500: "hsl(var(--primary-blue-500))",
         }
       },
       fontFamily: {

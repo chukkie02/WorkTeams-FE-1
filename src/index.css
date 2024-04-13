@@ -39,8 +39,9 @@
     --primary-purple-400: 256, 65%, 44%;
     --primary-orange-400: 34, 95%, 49%;
     --primary-gray-300: 0, 0%, 27%;
+    --primary-gray-500: 240, 11%, 46%;
     --primary-blue-400: 238, 27%, 20%;
-
+    --primary-blue-500: 238, 45%, 34%
   }
  
   .dark {
@@ -84,3 +85,8 @@
   }
 }
 
+.colorz {
+  color: hsl(238, 45%, 34%);
+  color: hsl(240, 11%, 46%);
+  color: white;
+}
